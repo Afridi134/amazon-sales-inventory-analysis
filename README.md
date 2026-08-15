@@ -18,17 +18,25 @@ The final Power BI report contains three pages:
 
 The dashboard connects directly to the cleaned **MySQL database** and uses DAX measures for KPIs and cross-table inventory/sales analysis.
 
+### Interactive Features
+
+- **Revenue / Units Toggle** — Switch between revenue and units sold to compare performance across categories and products without changing the underlying dashboard layout.
+- Interactive slicers for status, month, fulfilment, category, and size.
+- Cross-filtering across dashboard visuals.
+- Restock-priority view for identifying zero-stock products requiring attention.
+
 ### Dashboard Preview
 
 #### Sales Dashboard
-![Sales Dashboard](images/page1_overview.png) ![Uploading image.png…]()
+![Sales Dashboard](https://github.com/Afridi134/amazon-sales-inventory-analysis/blob/246aee51aef33ce47c960e39e23db3fff1c8dd6a/dashboard%20images/sales%20analysis%20(revenue).png) 
 
+![Sales Dashboard](https://github.com/Afridi134/amazon-sales-inventory-analysis/blob/246aee51aef33ce47c960e39e23db3fff1c8dd6a/dashboard%20images/sales%20analysis%20(Units).png)
 
 #### Sales & Product Performance
-![Sales & Product Performance](images/page2_sales_performance.png)
+![Sales & Product Performance](https://github.com/Afridi134/amazon-sales-inventory-analysis/blob/246aee51aef33ce47c960e39e23db3fff1c8dd6a/dashboard%20images/sales%20%26%20product%20performance.png)
 
 #### Inventory Dashboard
-![Inventory Dashboard](images/page3_inventory_restocking.png)
+![Inventory Dashboard](https://github.com/Afridi134/amazon-sales-inventory-analysis/blob/246aee51aef33ce47c960e39e23db3fff1c8dd6a/dashboard%20images/inventory%20dashboard.png)
 
 Key dashboard metrics include:
 
