@@ -21,7 +21,8 @@ The dashboard connects directly to the cleaned **MySQL database** and uses DAX m
 ### Dashboard Preview
 
 #### Sales Dashboard
-![Sales Dashboard](images/page1_overview.png)
+![Sales Dashboard](images/page1_overview.png) ![Uploading image.png…]()
+
 
 #### Sales & Product Performance
 ![Sales & Product Performance](images/page2_sales_performance.png)
