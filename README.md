@@ -27,9 +27,10 @@ The dashboard connects directly to the cleaned **MySQL database** and uses DAX m
 
 ### Dashboard Preview
 
-#### Sales Dashboard
+#### Sales Dashboard (Revenue)
 ![Sales Dashboard](https://github.com/Afridi134/amazon-sales-inventory-analysis/blob/246aee51aef33ce47c960e39e23db3fff1c8dd6a/dashboard%20images/sales%20analysis%20(revenue).png) 
 
+#### Sales Dashboard (Unit)
 ![Sales Dashboard](https://github.com/Afridi134/amazon-sales-inventory-analysis/blob/246aee51aef33ce47c960e39e23db3fff1c8dd6a/dashboard%20images/sales%20analysis%20(Units).png)
 
 #### Sales & Product Performance
