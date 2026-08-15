@@ -263,37 +263,6 @@ This produces the final **₹12,98,275.84 Revenue at Risk**, from the 208 SKUs d
 
 ---
 
-## 📁 Repository Structure
-
-```text
-amazon-sales-inventory-analysis/
-│
-├── README.md
-│
-├── sql/
-│   ├── cleaning_data.sql
-│   └── analysis_sql.sql
-│
-├── python/
-│   └── eda_analysis.ipynb
-│
-├── powerbi/
-│   └── inventory_analysis_sales.pbix
-│
-├── images/
-│   ├── page1_overview.png
-│   ├── page2_sales_performance.png
-│   └── page3_inventory_restocking.png
-│
-└── data/
-    ├── README.md
-    └── processed/
-        ├── cleaned_amazon_sales.csv
-        └── cleaned_inventory.csv
-```
-
----
-
 ## 📦 Dataset
 
 **Source:** [E-Commerce Sales Data (Kaggle — thedevastator)](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
