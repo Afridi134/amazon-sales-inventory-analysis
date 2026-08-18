@@ -227,7 +227,6 @@ The final Pareto analysis found that **1,962 of 7,083 revenue-generating SKUs**,
 The 1,962nd SKU brings cumulative revenue to approximately **80.0038%**.
 This is less concentrated than a classic 80/20 distribution and indicates that revenue is spread across a relatively broad product catalog.
 
-
 ### 6. Order status required cross-validation to trust
 
 Amazon's own order `Status` and the courier's independently reported `courier_status` disagreed on a meaningful number of orders (e.g. marked "Shipped" but the courier's record showed return or non-dispatch). For completed-order analysis, both `Status` and `courier_status` are cross-validated to avoid counting orders where the two sources indicate conflicting fulfilment outcomes.
