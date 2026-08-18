@@ -4,7 +4,7 @@ An end-to-end data analytics project analyzing Amazon India seller sales and inv
 
 The project focuses on data cleaning, validation, exploratory analysis, sales performance, and inventory risk.
 
-
+Analyzed 129K Amazon India transactions and 9K inventory records to identify sales trends, cancellation patterns, stockouts and revenue exposure.
 
 ---
 
