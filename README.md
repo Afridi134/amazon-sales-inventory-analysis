@@ -288,7 +288,6 @@ The dataset contains Amazon India seller sales data of approximately 129K transa
 - The dataset represents a historical period (Apr–Jun 2022) rather than live Amazon data.
 - Revenue-at-risk represents **historical revenue associated with currently zero-stock products**, not guaranteed future revenue loss.
 - Inventory and sales are linked primarily through SKU matching, so unmatched SKUs are excluded from direct SKU-level inventory analysis.
-- The dataset also includes a `b2b` order flag not explored in this project — see Future Analysis.
 
 ---
 
