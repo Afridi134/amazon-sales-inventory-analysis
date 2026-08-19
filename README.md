@@ -279,7 +279,7 @@ The dataset contains Amazon India seller sales data of approximately 129K transa
 4. **Run SQL cleaning** — `SQL text file/cleaning_queries.sql`
 5. **Run SQL analysis** — `SQL text file/analysis_queries.sql`
 6. **Run Python EDA** — `python/eda_analysis.ipynb` (connects to the same MySQL database via SQLAlchemy)
-7. **Open Power BI** — `powerbi/inventory_analysis_sales.pbix`, connected to the same MySQL database
+7. **Open Power BI** — `Powerbi/inventory_analysis_sales.pbix`, connected to the same MySQL database
 
 ---
 
